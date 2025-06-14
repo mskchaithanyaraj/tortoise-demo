@@ -1,1 +1,1 @@
-# how to handle PRs with tortoise
+# how to handle PRs with tortoise git
